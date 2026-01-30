@@ -10,3 +10,13 @@
     min-height:100vh;
     background-color: #eeeeee;
 }
+.navbar{
+    background-color: white;
+    width: 750px;
+    height:85px;
+    border-radius: 21px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+
